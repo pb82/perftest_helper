@@ -1,0 +1,2 @@
+defmodule Perftest do
+end
